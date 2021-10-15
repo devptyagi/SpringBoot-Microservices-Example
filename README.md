@@ -6,7 +6,7 @@ A simple Microservice Architecture based application implemented in SpringBoot.
 
 ## Implementation
 
-- Created two separate services microservices, namely USER-SERVICE and DEPARTMENT-SERVICE.
+- Created two separate services, namely USER-SERVICE and DEPARTMENT-SERVICE.
 - Setup a Service Registry (Netflix Eureka) and connected all services to the Eureka Server.
 - Created an API gateway so that all API calls are made through the same URL.
 
